@@ -1,1 +1,1 @@
-# Algorithmic_Thinking
+# Algorithmic Thinking Book
